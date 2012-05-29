@@ -5,7 +5,10 @@
 	<packaging>bundle</packaging>
 	<groupId>com.esotericsoftware</groupId>
 	<artifactId>kryo</artifactId>
-	<version>1.0.4</version>
+	<!-- <version>1.04</version> -->
+
+
+	<version>1.0.4.vivo_1</version>
 
   <repositories>
     <repository>
